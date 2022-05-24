@@ -1,1 +1,1 @@
-# switch_case_homework
+A simple command-line application.
